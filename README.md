@@ -11,7 +11,8 @@ Use this tool and/or code at your own risk.
 This tool was developed as a project to gain more knowledge about cryptograhy.
 
 
-Usage:
+### Usage
+
 1. `MicryptCS [filePath]`. *Example: `MicryptCS C:/MyUsername/MyImportantFiles`*
 2. Choose a command by entering a valid number.
 3. Enter a password to encrypt/decrypt the files with.
