@@ -70,9 +70,9 @@ namespace MicryptCS
         private static void PrintInformation()
         {
             Console.WriteLine("==============================================================================");
-            Console.WriteLine("Encryption using AES-CBC-256 with HMAC.");
+            Console.WriteLine("Encryption using AES-CBC-256 with HMAC-SHA-256.");
             Console.WriteLine("Encrypted files have the .MICRYPT extension.");
-            Console.WriteLine("All files placed inside the folder C:\\Micrypt folder will be encrypted.");
+            Console.WriteLine("All files placed inside the given folder will be encrypted.");
             Console.WriteLine("Changing and/or deleting any of the files inside of this folder will result in the loss of that file.");
             Console.WriteLine("Encrypting files in: " + Utils.FileFolder);
             Console.WriteLine("==============================================================================");

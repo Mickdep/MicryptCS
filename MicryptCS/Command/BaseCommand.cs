@@ -30,7 +30,7 @@ namespace MicryptCS.Command
         /// <returns>A string containing the password.</returns>
         protected string GetPasswordInput()
         {
-            Console.WriteLine("Please enter a password to (un)lock the file with: ");
+            Console.WriteLine("Please enter a password to (un)lock the files with: ");
             var password = Console.ReadLine();
             while (string.IsNullOrEmpty(password) || password.Contains(" "))
             {
