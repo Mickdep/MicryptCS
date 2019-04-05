@@ -78,9 +78,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\encryption-icon-15203-Windows.ico" />
-    <Content Include="Files\coins.jpg" />
-    <Content Include="Files\EncryptionFile.txt" />
     <Content Include="Assets\if_M_81721.ico" />
   </ItemGroup>
   <ItemGroup>
