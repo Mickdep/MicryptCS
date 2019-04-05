@@ -8,7 +8,7 @@ There is a library([BouncyCastle](https://www.bouncycastle.org/csharp/index.html
 
 ### Warning!
 Use this tool and/or code at your own risk.
-This tool was developed as a project to gain more knowledge about cryptograhy.
+This tool was developed as a project to gain more knowledge about basic cryptograhy.
 
 
 ### Usage
