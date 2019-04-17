@@ -34,14 +34,6 @@ This tool was developed as a project to gain more knowledge about basic cryptogr
 
 ![Result of the encryption](Images/Image3.png)
 
-4. Choosing the decryption command and entering the **wrong** password
-
-![Choosing the decryption command and entering the **wrong** password](Images/Image4.png)
-
-5. Result of the decryption with the **wrong** password
-
-![Result of the decryption with the **wrong** password](Images/Image5.png)
-
 6. Choosing the decryption command and entering the **correct** password
 
 ![Choosing the decryption command and entering the **correct** password](Images/Image6.png)
