@@ -1,6 +1,6 @@
 # MicryptCS
 
-Command-line tool written in C# to lock a file with a password.
+Command-line tool written in C# to encrypt a file with a password.
 The encryption used is AES-256-CBC with a HMAC-SHA-256 to enforce integrity and authentication.
 
 Generally a ciphermode like GCM is preferred over CBC + HMAC, but C# doesn't support GCM by default.
