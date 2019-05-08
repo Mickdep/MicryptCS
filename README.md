@@ -33,11 +33,3 @@ This tool was developed as a project to gain more knowledge about basic cryptogr
 3. Result of the encryption
 
 ![Result of the encryption](Images/Image3.png)
-
-6. Choosing the decryption command and entering the **correct** password
-
-![Choosing the decryption command and entering the **correct** password](Images/Image6.png)
-
-7. Result of the decryption with the **correct** password
-
-![Result of the decryption with the **correct** password](Images/Image7.png)
